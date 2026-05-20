@@ -1,0 +1,72 @@
+Public Function Greeklish(ByVal txt As Variant) As String
+    Dim i As Long
+    Dim ch As String
+    Dim r As String
+    Dim n As Long
+    
+    If IsError(txt) Or IsEmpty(txt) Then
+        Greeklish = ""
+        Exit Function
+    End If
+    
+    txt = CStr(txt)
+    
+    For i = 1 To Len(txt)
+        ch = Mid$(txt, i, 1)
+        n = AscW(ch)
+        
+        Select Case n
+            Case 913, 902: r = r & "A"
+            Case 945, 940: r = r & "a"
+            Case 914: r = r & "V"
+            Case 946: r = r & "v"
+            Case 915: r = r & "G"
+            Case 947: r = r & "g"
+            Case 916: r = r & "D"
+            Case 948: r = r & "d"
+            Case 917, 904: r = r & "E"
+            Case 949, 941: r = r & "e"
+            Case 918: r = r & "Z"
+            Case 950: r = r & "z"
+            Case 919, 905: r = r & "I"
+            Case 951, 942: r = r & "i"
+            Case 920: r = r & "Th"
+            Case 952: r = r & "th"
+            Case 921, 906, 938: r = r & "I"
+            Case 953, 943, 970, 912: r = r & "i"
+            Case 922: r = r & "K"
+            Case 954: r = r & "k"
+            Case 923: r = r & "L"
+            Case 955: r = r & "l"
+            Case 924: r = r & "M"
+            Case 956: r = r & "m"
+            Case 925: r = r & "N"
+            Case 957: r = r & "n"
+            Case 926: r = r & "X"
+            Case 958: r = r & "x"
+            Case 927, 908: r = r & "O"
+            Case 959, 972: r = r & "o"
+            Case 928: r = r & "P"
+            Case 960: r = r & "p"
+            Case 929: r = r & "R"
+            Case 961: r = r & "r"
+            Case 931: r = r & "S"
+            Case 963, 962: r = r & "s"
+            Case 932: r = r & "T"
+            Case 964: r = r & "t"
+            Case 933, 910, 939: r = r & "Y"
+            Case 965, 973, 971, 944: r = r & "y"
+            Case 934: r = r & "F"
+            Case 966: r = r & "f"
+            Case 935: r = r & "Ch"
+            Case 967: r = r & "ch"
+            Case 936: r = r & "Ps"
+            Case 968: r = r & "ps"
+            Case 937, 911: r = r & "O"
+            Case 969, 974: r = r & "o"
+            Case Else: r = r & ch
+        End Select
+    Next i
+    
+    Greeklish = r
+End Function
