@@ -1,0 +1,37 @@
++--------------+--------------+------------+----------------------+
+| AMKA         | last_name    | first_name | staff_type           |
++--------------+--------------+------------+----------------------+
+|  56055487848 | Bullivant    | Annmaria   | doctor               |
+|  66979041163 | Biggans      | Dewie      | doctor               |
+|  10861054345 | Buckwell     | Erin       | doctor               |
+|  40399605130 | Milton       | Juan       | doctor               |
+|  30598008889 | Filintsev    | Henri      | doctor               |
+|  96633400158 | Hain         | Chrissie   | doctor               |
+|  63369186282 | Costall      | Rosy       | doctor               |
+| 993000000001 | Papadopoulos | Alexis     | doctor               |
+| 993000000012 | Nikolaou     | Dimitris   | doctor               |
+| 993000000023 | Georgiou     | Eleni      | doctor               |
+| 993000000034 | Dimitriou    | Maria      | doctor               |
+| 993000000045 | Ioannou      | Nikos      | doctor               |
+| 993000000056 | Kostou       | Katerina   | doctor               |
+| 993000000067 | Andreou      | Giorgos    | doctor               |
+|  35221482338 | Ansell       | Gilburt    | nurse                |
+|  12352158706 | Sunman       | Susanne    | nurse                |
+|  36015329616 | Bugbird      | Toma       | nurse                |
+|  16140774074 | Goodlife     | Lonnard    | nurse                |
+|  12928759230 | Olivia       | Dione      | nurse                |
+|  29405323807 | Werrett      | Dennie     | nurse                |
+|  10736339320 | Durbridge    | Irwin      | nurse                |
+| 994000000301 | Papadopoulou | Maria      | nurse                |
+| 994000000302 | Georgiou     | Eleni      | nurse                |
+| 994000000303 | Nikolaou     | Sofia      | nurse                |
+| 994000000304 | Dimitriou    | Anna       | nurse                |
+| 994000000305 | Ioannou      | Katerina   | nurse                |
+| 994000000306 | Andreou      | Ioanna     | nurse                |
+|  39181191356 | Few          | Justino    | administrative staff |
+|  87662799548 | Glanester    | Teriann    | administrative staff |
+|  40433751421 | Gribble      | Turner     | administrative staff |
+|  71290683177 | Bredbury     | Julian     | administrative staff |
+| 994000000391 | Andreou      | Marios     | administrative staff |
+| 994000000392 | Vasileiou    | Nikos      | administrative staff |
++--------------+--------------+------------+----------------------+

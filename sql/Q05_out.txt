@@ -1,0 +1,10 @@
++----------+------------+--------------+-----------------+
+| staff_id | first_name | last_name    | total_surgeries |
++----------+------------+--------------+-----------------+
+|        8 | Zollie     | Cossem       |              12 |
+|       28 | Maxy       | Radford      |              10 |
+|       41 | Chaddy     | McWhannel    |               8 |
+|      258 | Anna       | Vasileiou    |               7 |
+|      260 | Sofia      | Markou       |               6 |
+|      291 | Alexis     | Papadopoulos |               5 |
++----------+------------+--------------+-----------------+

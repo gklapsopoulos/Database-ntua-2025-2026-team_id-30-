@@ -1,0 +1,17 @@
++--------------+------------+--------------+--------------------+---------------+
+| last_name    | first_name | AMKA         | shift_current_year | surgery_count |
++--------------+------------+--------------+--------------------+---------------+
+| Conti        | Cassy      |  97028361079 | NO                 |            11 |
+| Colquyte     | Abie       |  34126505995 | NO                 |             7 |
+| Radford      | Maxy       |  51824866136 | YES                |            10 |
+| Kidner       | Giffy      |  15721581663 | YES                |             7 |
+| Ivons        | Jacintha   |  54992366384 | YES                |             7 |
+| Hain         | Chrissie   |  96633400158 | NO                 |             6 |
+| Oddey        | Ellissa    |  59264345155 | YES                |             6 |
+| Kostou       | Katerina   | 993000000006 | YES                |             6 |
+| Andreou      | Giorgos    | 993000000017 | YES                |             6 |
+| Vasileiou    | Anna       | 993000000028 | YES                |             7 |
+| Petrou       | Marios     | 993000000039 | NO                 |             6 |
+| Markou       | Sofia      | 993000000050 | NO                 |             6 |
+| Papadopoulos | Alexis     | 993000000061 | NO                 |             5 |
++--------------+------------+--------------+--------------------+---------------+
